@@ -6817,3 +6817,10 @@ del {
 .switch-wrap {
     margin-bottom: 10px
 }
+
+
+/* CUSTOM STYLESS */
+
+.gallery-container {
+    padding: 20px;
+}
